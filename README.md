@@ -6,11 +6,11 @@ It extends on `eslint-config-airbnb-base`.
 ## Installation
 
 ```bash
-npm install @e-sites/eslint-config --save-dev
+npm install @e-sites/eslint-config eslint eslint-config-airbnb-base eslint-plugin-import --save-dev
 ```
 
 ```bash
-yarn add @e-sites/eslint-config --dev
+yarn add @e-sites/eslint-config eslint eslint-config-airbnb-base eslint-plugin-import --dev
 ```
 
 ## Usage
