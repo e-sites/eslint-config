@@ -1,6 +1,10 @@
+# 1.0.1
+
+-   Added babel-eslint parser to support newest JavaScript features
+
 # 1.0.0
 
--   Mayor release
+-   Major release
 
 # 0.0.2
 
