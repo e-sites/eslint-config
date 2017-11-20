@@ -27,6 +27,10 @@
       {
         "props": false
       }
+    ],
+    "linebreak-style": [
+      "error",
+      "windows"
     ]
   }
 }
