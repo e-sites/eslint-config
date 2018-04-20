@@ -1,3 +1,7 @@
+# 2.0.0
+
+-   Added LF as default line ending
+
 # 1.0.2
 
 -   Added CRLF as default line ending

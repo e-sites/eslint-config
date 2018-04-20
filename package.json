@@ -1,6 +1,6 @@
 {
   "name": "@e-sites/eslint-config",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "This package provides E-sites base JS .eslintrc as an extensible shared config.",
   "keywords": [
     "eslint",
